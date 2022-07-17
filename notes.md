@@ -40,3 +40,5 @@ git push
 
 // if I want bring edit from my github
 git pull
+
+becarful from line => start on json if use nodemon it should be --save
