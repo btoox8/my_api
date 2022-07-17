@@ -37,3 +37,6 @@ if it done without error => view => press on it
 git add \*
 git commit -m"second edit"
 git push
+
+// if I want bring edit from my github
+git pull
