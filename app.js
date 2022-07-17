@@ -58,7 +58,7 @@ mongoose.connect('mongodb+srv://btoo:s8PXzNiXZYKbrq9U@myapi.5p548.mongodb.net/my
 // use => process.env.PORT || 8080 => to put default port
 // write them instade of 8080
 // ==============================
-app.listen(process.env.Port || 8080,()=>{
+app.listen(process.env.PORT || 8080,()=>{
     // Cannot GET / => we not make route till now
     // endpoint === route
     console.log('server is running on port 8080');
