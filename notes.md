@@ -31,8 +31,7 @@ connect them to github and write our project name from
 githu on it
 enable automatic deploy
 then press deploy branch
-go to personal to see it
-
+if it done without error => view => press on it
 =>upload any edit
 
 git add \*
